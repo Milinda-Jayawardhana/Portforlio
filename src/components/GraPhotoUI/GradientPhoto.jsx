@@ -17,7 +17,7 @@ export function GradientPhoto() {
         
           >
             <img
-              src="public/1678284806396-removebg-preview-removebg-preview.png"
+              src="/1678284806396-removebg-preview-removebg-preview.png"
               alt=""
               height="400"
               width="400"
