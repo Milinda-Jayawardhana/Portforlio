@@ -1,15 +1,25 @@
-{"routes":[
+{
+  "routes":[
 
-  {
-    "src": "/",
-    "dest": "/",
-    "children": [
-      { "src": "/", "dest": "/" },
-      { "src": "resume", "dest": "/" },
-      { "src": "services", "dest": "/" },
-      { "src": "projects", "dest": "/" },
-      { "src": "contact", "dest": "/" }
-    ]
-  }
-
-]}
+    {
+      "src": "/",
+      "dest": "/"
+    },
+    {
+      "src": "/resume",
+      "dest": "/"
+    },
+    {
+      "src": "/services",
+      "dest": "/"
+    },
+    {
+      "src": "/projects",
+      "dest": "/"
+    },
+    {
+      "src": "/contact",
+      "dest": "/"
+    }
+  ]
+}
